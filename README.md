@@ -22,13 +22,13 @@
   </a>
 </div>
 
-## 🚀 Getting Started
+##  Getting Started
 
 - News is a simple app to show new news  .
 - user can allow you to search about any news.
 - news is Divided by category.
 
-## 🤳 Screens
+##  Screens
 
 - **Splash Screen:** Wait for 3 seconds then navigate to `Home Screen`. 
 - **Home Screen:** the user can choose news categoty
@@ -38,7 +38,7 @@
 <hr>
 <h3>
 <!--   <a href="https://www.youtube.com/watch?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
-    👨🏻‍🎓 Get this app on YouTube Playlist Tutorials
+     Get this app on YouTube Playlist Tutorials
   </a> -->
 </h3>
 <!-- <p align= "center">
@@ -50,7 +50,7 @@
 
 
 
-## 📱 UI
+##  UI
 
 ![WhatsApp Image 2024-04-03 at 18 06 09_d24aeab7](https://github.com/MO-A7/news-master/blob/main/assets/images/319265478-5ee133b6-89f1-4e0f-8f21-17bb0bff7cf0.jpg)
 ![WhatsApp Image 2024-04-03 at 18 06 08_cc242db3](https://github.com/MO-A7/news-master/blob/main/assets/images/319265468-75ec6205-297c-46e2-a3ef-e3f8a2ae4fd4.jpg)
@@ -61,7 +61,7 @@
 
 
 
-## 🛠 Dependencies
+##  Dependencies
 
 ```pubspec.yaml
  smooth_page_indicator: 
@@ -74,7 +74,7 @@
   
 ```
 
-## ☢️ Usage
+##  Usage
 
 1. **Clone the repository**
 
@@ -91,7 +91,7 @@
     flutter run
     ```
 
-## 🚨 Contributing
+##  Contributing
 
-- Contributions are welcome 💜
+- Contributions are welcome 
 - If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
