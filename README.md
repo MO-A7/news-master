@@ -52,9 +52,9 @@
 
 ## 📱 UI
 
-![WhatsApp Image 2024-04-03 at 18 06 09_d24aeab7](https://github.com/MO-A7/news-master/blob/main/assets/images/business.png)
-![WhatsApp Image 2024-04-03 at 18 06 08_cc242db3](https://github.com/mohamedelbaz50/news/assets/71174933/75ec6205-297c-46e2-a3ef-e3f8a2ae4fd4)
-![WhatsApp Image 2024-04-03 at 18 06 08_4966c2fe](https://github.com/mohamedelbaz50/news/assets/71174933/023a491e-21b4-4a63-bb15-581e4435802b)
+![WhatsApp Image 2024-04-03 at 18 06 09_d24aeab7](https://github.com/MO-A7/news-master/blob/main/assets/images/319265478-5ee133b6-89f1-4e0f-8f21-17bb0bff7cf0.jpg)
+![WhatsApp Image 2024-04-03 at 18 06 08_cc242db3](https://github.com/MO-A7/news-master/blob/main/assets/images/319265468-75ec6205-297c-46e2-a3ef-e3f8a2ae4fd4.jpg)
+![WhatsApp Image 2024-04-03 at 18 06 08_4966c2fe](https://github.com/MO-A7/news-master/blob/main/assets/images/319265482-023a491e-21b4-4a63-bb15-581e4435802b.jpg)
 
 
 
