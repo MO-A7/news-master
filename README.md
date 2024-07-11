@@ -4,10 +4,10 @@
      <a href="https://api.visitorbadge.io/api/visitors?path=Moshtriat&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
         <img src="https://api.visitorbadge.io/api/visitors?path=Moshtriat&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
     </a>
-    <a href="https://www.linkedin.com/in/mohamed-elbaz-7774841b6/" target="_blank">
+    <a href="https://www.linkedin.com/in/mohamed-aymen-596a161a3/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:aboelbaz611@gmail.com">
+  <a href="mailto:abo145207@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 <!--     <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
   </a> -->
      </a>
-     <a href="https://t.me/aboelbaz50">
+     <a href=" https://t.me/MOA_77">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
